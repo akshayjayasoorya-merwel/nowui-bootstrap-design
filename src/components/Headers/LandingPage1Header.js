@@ -24,7 +24,7 @@ function LandingPage1Header() {
         <div
           className="page-header-image"
           style={{
-            backgroundImage: "url(" + require("C:/Masters-Doc/ASU/Merwel-INC/UI-designs/now-ui-kit-pro-react-v1.5.2/bootstrap-now-ui/src/assets/img/human__embryo.png") + ")"
+            backgroundImage: "url(" + require("assets/img/human__embryo.png") + ")"
           }}
           ref={pageHeader}
         ></div>
