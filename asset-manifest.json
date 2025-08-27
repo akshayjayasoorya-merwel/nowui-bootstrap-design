@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/akshayjayasoorya-merwel.github.io/bootstrap-now-ui/static/css/main.d2c0ccd0.css",
+    "main.js": "/akshayjayasoorya-merwel.github.io/bootstrap-now-ui/static/js/main.b8181662.js",
+    "static/media/human__embryo.png": "/akshayjayasoorya-merwel.github.io/bootstrap-now-ui/static/media/human__embryo.7a83c81e509481273dd8.png",
+    "static/media/NCBN.png": "/akshayjayasoorya-merwel.github.io/bootstrap-now-ui/static/media/NCBN.26e8ba4329ca193cb596.png",
+    "static/media/nucleo-outline.eot": "/akshayjayasoorya-merwel.github.io/bootstrap-now-ui/static/media/nucleo-outline.56814a6b7240045e1494.eot",
+    "static/media/nucleo-outline.ttf": "/akshayjayasoorya-merwel.github.io/bootstrap-now-ui/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
+    "static/media/nucleo-outline.woff": "/akshayjayasoorya-merwel.github.io/bootstrap-now-ui/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
+    "static/media/nucleo-outline.woff2": "/akshayjayasoorya-merwel.github.io/bootstrap-now-ui/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
+    "index.html": "/akshayjayasoorya-merwel.github.io/bootstrap-now-ui/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d2c0ccd0.css",
+    "static/js/main.b8181662.js"
+  ]
+}
