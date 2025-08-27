@@ -12,9 +12,9 @@ import {
 } from "reactstrap";
 
 // core components
-import DropdownScrollNavbar from "components/Navbars/DropdownScrollNavbar.js";
-import LandingPage1Header from "components/Headers/LandingPage1Header.js";
-import NCBNFooter from "components/Footers/NCBNFooter.js";
+import DropdownScrollNavbar from "../../components/Navbars/DropdownScrollNavbar.js";
+import LandingPage1Header from "../../components/Headers/LandingPage1Header.js";
+import NCBNFooter from "../../components/Footers/NCBNFooter.js";
 
 function LandingPage1() {
   React.useEffect(() => {

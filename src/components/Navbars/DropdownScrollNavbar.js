@@ -100,7 +100,7 @@ function DropdownScrollNavbar() {
             <NavbarBrand to="/" tag={Link} id="navbar-brand">
               <img
                 alt="National Cord Blood Network"
-                src={require("assets/img/National-Cord-Blood-Network_Logo_FNL_new_web.png")}
+                src={require("assets/img/NCBN.png")}
                 style={{ 
                   height: "75px",
                   filter: "brightness(1)",
